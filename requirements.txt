@@ -1,0 +1,17 @@
+gTTS==2.5.4
+langchain==0.3.27
+langchain_core==0.3.72
+langchain_ollama==0.3.6
+playsound==1.2.2
+pyaudio==0.2.14
+python-dotenv==1.1.1
+pyttsx3==2.99
+pytz==2025.2
+speechrecognition==3.14.3
+vosk==0.3.45
+sounddevice==0.5.2
+TTS==0.22.0
+pyttsx3==2.99
+duckduckgo_search==8.1.1
+keyboard==0.13.5
+pygame==2.6.1
